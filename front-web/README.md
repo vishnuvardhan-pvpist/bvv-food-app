@@ -66,3 +66,7 @@ https://mapbox.com
 # React Select
 https://react-select.com/home
 npm install react-select
+
+# REACT TOASTIFY
+https://fkhadra.github.io/react-toastify/installation
+npm install --save react-toastify
