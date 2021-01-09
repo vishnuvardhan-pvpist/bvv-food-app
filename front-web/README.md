@@ -52,3 +52,17 @@ npm install @types/react-router-dom
 
 ## Requisições
 npm install axios
+
+## Maps
+https://react-leaflet.js.org/
+npm install leaflet react-leaflet
+npm install -D @types/leaflet
+css: https://leafletjs.com/examples/quick-start/
+
+# MAPBOX
+TOKEN TO MAP
+https://mapbox.com
+
+# React Select
+https://react-select.com/home
+npm install react-select
