@@ -49,3 +49,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 https://reactrouter.com/web
 npm install react-router-dom
 npm install @types/react-router-dom
+
+## Requisições
+npm install axios
