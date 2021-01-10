@@ -1,4 +1,4 @@
-# DS Deliver
+# DS Delivery
 Web application with FrontEnd in React. Order Delivery Food.
 
 ## Application web
