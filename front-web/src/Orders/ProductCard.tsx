@@ -20,6 +20,7 @@ function ProductCard({ product, onSelectProduct, isSelected }: Props) {
       <h3 className="order-card-price">
         {formatPrice(product.price)}
       </h3>
+      <h4> Welcome </h4>
       <div className="order-card-description">
         <h3>Descrição</h3>
         <p>
